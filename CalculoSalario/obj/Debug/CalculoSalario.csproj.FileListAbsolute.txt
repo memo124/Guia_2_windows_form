@@ -1,0 +1,11 @@
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.AssemblyReference.cache
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.SuggestedBindingRedirects.cache
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Form1.resources
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+D:\proyectos\proyectos en c#\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
